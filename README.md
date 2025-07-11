@@ -1,7 +1,7 @@
 # BoxCounting
 The Box Counting method calculates the Fractal Dimension of an image. It is a way to quantify the complexity and self-similarity of irregular shapes. The algorithm reads a 1024x1024 PNG image and returns its Fractal Dimension.
 
-The algorithm was tested on fractal images of known dimension as shown in the table below.
+The algorithm was tested on fractal images of known dimension. The results are displayed in the table below.
 
 | Fractal Name          | Theoretical fractal dimension  |  Calculated fractal dimension |
 | --- | --- | --- |
