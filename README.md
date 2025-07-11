@@ -3,7 +3,6 @@ The Box Counting method calculates the Fractal Dimension of an image. It is a wa
 
 
 
-::: {#table:Fractals}
 +-----------------------+----------------------------------------------------------------+--------------------------+--------------------------+
 | Name                  | Illustration                                                   | ::: {#table:Fractals}    | ::: {#table:Fractals}    |
 |                       |                                                                |   ------------------- -- |   ------------------- -- |
@@ -103,6 +102,3 @@ The Box Counting method calculates the Fractal Dimension of an image. It is a wa
 |   dimension           |                                                                |                          |                          |
 | :::                   |                                                                |                          |                          |
 +-----------------------+----------------------------------------------------------------+--------------------------+--------------------------+
-
-: Fractals with known fractal dimension
-:::
