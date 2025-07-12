@@ -3,7 +3,7 @@ The Box Counting method calculates the Fractal Dimension of an image. It is a wa
 
 The algorithm was tested on fractal images of known dimension. The results are displayed in the table below.
 
-| Fractal Name          | Theoretical\nFractal Dimension  |  Calculated\nFractal Dimension |
+| Fractal Name          | Theoretical<br>Fractal Dimension  |  Calculated<br>Fractal Dimension |
 | --- | --- | --- |
 | Sierpinski  Triangle  | 1.585 | 1.582 |  
 | Koch Curve            | 1.262 | 1.263 |  
